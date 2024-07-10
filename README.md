@@ -1,7 +1,7 @@
-# Atliq Technologies Sales Insights
+# Power BI Demonstration
 
 ## Introduction
-I wanted to explore Power BI through a readily available database and this company has data that was published. As a result, I used this companies data to demonstrate Power BI understanding.
+I wanted to explore Power BI through a readily available database and this company named Atliq Technologies that is based in India has data that was published. As a result, I used their data to demonstrate my understanding of Power BI.
 
 In this dashboard, I create three separate pages.
 
