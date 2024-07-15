@@ -1,16 +1,16 @@
 # Atliq Technologies Sales Insights - Power BI
 
 ## Introduction
-I wanted to explore Power BI through a readily available database and this company named Atliq Technologies that is based in India has data that was published. As a result, I used their data to demonstrate my understanding of Power BI.
+I wanted to explore Power BI through a readily available database and this company named Atliq Technologies that is based in India has data that was published. As a result, I used their data to demonstrate my understanding of Power BI. If there is something not included in this dashboard that you would like to see, I would be happy to take your suggestion and try to implement your suggestions!
 
-In this dashboard, I create three separate pages.
+In this dashboard, I create three separate pages: base insights, profit analysis, and performance analysis.
 
 ### Page 1: Base Insights
 The **Base Insights** page essentially covers what a manager may want to know just at a quick glance.
 
 ![image](https://github.com/landenng/atliq-si/assets/117413452/7ad145fc-7590-4e24-ba72-a1dd5f4a6609)
 
-First of all, you can quickly view revenue and sales quantity if desired and even click different years along with months throughout those years to see how the business has progressed over time. This allows managers to be able to easily see whether the business is performing well or in need of an assessment. 
+The user can quickly view revenue and sales quantity if desired and even click different years along with months throughout those years to see how the business has progressed over time. This allows managers to be able to easily see whether the business is performing well or in need of an assessment. 
 
 Secondly, this allows easy and fast access to the top 5 customers and products during any given point throughout the year. Not only this, we can view how a particular customer has contributed to revenue and sales quantity, and the top 5 products they sold during any point in time by clicking on them as shown below. This particular example shows how Electricalsara Stores contributed to the aforementioned statistics in the year of 2020.
 
@@ -38,4 +38,4 @@ The profit target slider allows us to see what markets are below our desired rev
 Finally, the new bar chart on the right hand side of the page allows the user to see revenue the current year in comparison to the revenue from the previous year. The line indicated how the profit margins have performed throughout the chosen time period as well.
 
 ## Conclusion
-This Power BI dashboard allows users to interactively analyze their business quickly and easily. Everything that you can view in the images is clickable and allow the user to delve deeper into the numbers of their business. There is also a mobile layout for this dashboard; however, I cannot view it on mobile as I can't publish the dashboard to the cloud without a work email. 
+This Power BI dashboard allows users to interactively analyze their business quickly and easily. Everything that you can view in the images is clickable and allow the user to delve deeper into the numbers of their business. There is also a mobile layout for this dashboard; however, I cannot view it on mobile as I can't publish the dashboard to the cloud without a work email. If you would like to see more information, I would be happy to take further input on my dashboard and attempt to implement your desired features.
